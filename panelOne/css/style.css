@@ -1,0 +1,58 @@
+body{
+
+    background-color: #2C3A47 !important;
+}
+
+.logo{
+    width: 100% !important;
+    height: auto !important;
+}
+
+.rowin{
+    font-size: 32px !important;
+    text-align: center !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.per{
+    color: green;
+}
+
+.ano{
+    color: white;
+}
+
+.te{
+    color: red;
+}
+
+.panel{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.sh .number{
+    background-color:#f6e58d;
+    border-radius: 25px;
+    border: none;
+}
+.sh .number:visited{
+  background-color: #f9ca24;
+}
+
+.rows{
+  color: #eccc68;
+  margin-left: 150px;
+  font-size: 25px !important;
+}
+.rowin p{
+  font-size: 20px !important;
+  color: #ffa502;
+  margin-right: 150px;
+}
+.sh .bot{
+  border-radius: 25px;
+}
+
+.sh .bot:hover{
+  width: 200px;
+}
