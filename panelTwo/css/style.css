@@ -1,0 +1,31 @@
+body{
+    background: #8f30f4 !important;
+
+}
+.bm{
+    margin-top: 90px;
+    color: white;
+}
+.panel{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.sh .number{
+    background-color:#f6e58d;
+    border-radius: 25px;
+    border: none;
+}
+.sh .number:visited{
+  background-color: mediumorchid;
+}
+.rows{
+    color: #eccc68;
+    margin-left: 150px;
+    font-size: 25px !important;
+  }
+  .rowin p{
+    font-size: 20px !important;
+    color: #ffa502;
+    margin-right: 150px;
+}
